@@ -49,11 +49,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [24/7 Radio Music Bot discord.js | With Source Code](https://www.youtube.com/watch?v=NDVQMwqrBM8)
 - [#5 Setting up v13 command handler | discord.js v13 tutorials](https://www.youtube.com/watch?v=Ek_tUityo4U)
 - [#4 Inline replies Mention & NoMention | discord.js tutorials](https://www.youtube.com/watch?v=9TmQ5mUzAWg)
 - [#3 Automatic changing status discord bot | discord.js tutorials](https://www.youtube.com/watch?v=fE91hZ-7Ghk)
 - [PokeAssist All Error Fixed! | PokeAssist isn't working? | Not showing Name? | Not coming online?](https://www.youtube.com/watch?v=NRo3vMWrpz4)
-- [#2 Embeds & Messages Making bot to send messages | discord.js tutorials](https://www.youtube.com/watch?v=YquF45xY4Yc)
 <!-- YOUTUBE:END -->
 
 
