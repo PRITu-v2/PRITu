@@ -11,12 +11,13 @@ I make random stuff using random codes!
   
 ### Languages and Tools: 
 
-<code><img align="left" alt="Visual Studio Code" width="31px" src="https://i.imgur.com/LwSdAlE.png" /></code>
-<code><img align="left" alt="discord.js" width="31px" src="https://i.imgur.com/SI1DZf3.png" /></code>
-<code><img align="left" alt="js" width="31px" src="https://i.imgur.com/3u1wzwE.png" /></code>
-<code><img align="left" alt="node.js" width="35px" src="https://i.imgur.com/tYLFZBh.png" /> </code>
-<code><img align="left" alt="python" width="35px" src="https://cdn.discordapp.com/attachments/866965353959653396/869093713404645406/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.png" /> </code>
-<br>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.discordapp.com/attachments/866965353959653396/869093713404645406/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 
 ### Here are some ideas to get you started:
 
