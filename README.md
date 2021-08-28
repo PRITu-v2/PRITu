@@ -33,10 +33,6 @@ I make random stuff using random codes!
 <details>
 <summary style="font-size: 30px;">Stats</summary>
     
-  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=pritudev&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
-  
-  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=pritudev&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
-  
   _(Wakatime stats of all time)_
   
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritudev)](https://github.com/pritudev)
